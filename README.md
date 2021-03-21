@@ -1,4 +1,4 @@
-# errors
+# errors ![test](https://github.com/kapetndev/errors/workflows/test/badge.svg?event=push)
 
 It is commonly seen within the Go community `error` values being wrapped within
 other `error` values before being returned from function and methods, adding
